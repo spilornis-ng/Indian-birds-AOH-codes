@@ -1,4 +1,4 @@
-# [Accepted in Biotropica] Using the Area of Habitat to Assess the Extent of Protection of India’s Birds
+# [Published in Biotropica] Using the Area of Habitat to Assess the Extent of Protection of India’s Birds
 
 
 India hosts multiple global biodiversity hotspots while being one of the most populous countries
@@ -17,4 +17,6 @@ India, since we find that substantial proportions of their AOHs fall outside pro
 result highlights the significance of alternative conservation models, including other effective
 area-based conservation measures. We show that species’ AOH provides a more realistic well-
 informed range that can aid in assessing their protection status
+
+Link for the publication : https://doi.org/10.1111/btp.13132
 ![Graphical_Abstract](https://user-images.githubusercontent.com/61734552/173997351-c2e6396e-6859-4f15-97ee-40f2ccc59ee7.jpg)
